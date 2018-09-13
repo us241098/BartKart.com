@@ -1,2 +1,2 @@
 # BartKart.com
-The hero we needed but did'nt deserve.
+The hero we needed but didn't deserve.
